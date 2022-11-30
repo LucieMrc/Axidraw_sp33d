@@ -65,7 +65,7 @@ In the `Resume` tab, you can select an action to execute after pausing the plot.
 
 ## Plotting
 
-Open the Axidraw menu, and click `Apply` in the `Plotter` tab to plot without differencing the layers.
+Open the Axidraw menu, and click `Apply` in the `Plotter` tab to plot without differencing the layers. The Axidraw will then plot every visible layers.
 ![screen d'Inkscape](./images/screen2.png)
 
 You can pause the plot with the button on the top side of the Axidraw.
@@ -82,4 +82,4 @@ Open the `Layers` tab of the Axidraw menu, and select which layer number you wan
 
 The [Axidraw Inkscape extension user guide](https://www.manualslib.com/manual/1235134/Evil-Mad-Scientist-Axidraw.html).
 
-
+A [video explaining how to use the extension](https://www.youtube.com/watch?v=r5mhw8-nrg0).
