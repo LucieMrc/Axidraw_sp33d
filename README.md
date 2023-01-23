@@ -49,6 +49,10 @@ In the `Options` tab, you can choose differents settings, such as the speed.
 
 ![screen d'Inkscape](./images/screen7.png)
 
+It is important to make sure to select the right model of Axidraw in the `Config` part, to have the right plot size : here the A3 Axidraw to plot in A3.
+
+![screen d'Inkscape](./images/screen10.png)
+
 In the `Manual` tab, you can choose an action to execute when clicking `Apply`.
 
 ![screen d'Inkscape](./images/screen4.png)
