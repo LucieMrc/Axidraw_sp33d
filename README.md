@@ -4,6 +4,7 @@
 
 Prerequisite : being at the digital workshop,  having installed [Inkscape](https://inkscape.org) and the [Axidraw extension](https://wiki.evilmadscientist.com/Axidraw_Software_Installation).
 
+!['illu''](./images/imageAxidraw.jpg)
 
 ## Setup
 
