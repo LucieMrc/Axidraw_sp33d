@@ -1,6 +1,6 @@
 # 🚧🚧 Axidraw_sp33d 🚧🚧
 
-**On how to use with almost full autonomy the Axidraw with a .svg and Inkscape.**
+**On how to use with almost full autonomy the Axidraw with a .svg and Inkscape (or with Saxi).**
 
 Prerequisite : being at the digital workshop,  having installed [Inkscape](https://inkscape.org) and the [Axidraw extension](https://wiki.evilmadscientist.com/Axidraw_Software_Installation).
 
@@ -82,6 +82,14 @@ Open the `Layers` tab of the Axidraw menu, and select which layer number you wan
 ![screen d'Inkscape](./images/screen9.png)
 
 ![screen d'Inkscape](./images/screen8.png)
+
+# Using Saxi
+To print with [saxi](https://github.com/nornagon/saxi), you just have to open the browser on the computer, and open "localhost:9080", puis de drag and drop le fichier .svg sur la page.
+
+La taille de l'image s'adapte automatiquement à la taille du papier (impossible de resizer, on peux uniquement modifier la taille des marges et l'image sera centrée entre ces marges).
+
+![screen de Saxi](./images/saxi.png)
+*(image : [saxi github](https://github.com/nornagon/saxi))*
 
 # To go further
 
